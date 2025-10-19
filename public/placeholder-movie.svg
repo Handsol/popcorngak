@@ -1,0 +1,6 @@
+<svg width="500" height="750" viewBox="0 0 500 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="750" fill="#F3F4F6"/>
+<path d="M250 300L300 400H200L250 300Z" fill="#9B9BA5"/>
+<text x="250" y="450" text-anchor="middle" fill="#6B7280" font-family="Arial" font-size="18">Movie Poster</text>
+</svg>
+
